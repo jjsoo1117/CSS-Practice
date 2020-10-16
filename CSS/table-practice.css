@@ -1,0 +1,40 @@
+
+.div_people{
+    border-style: solid;
+    border-color: lightgray;
+    border-width: thin;
+    text-align: center;
+    height: 800px;
+    width: 1000px;
+    padding: 20px;
+
+}
+.div_person{
+    display: inline-block;
+    height: 380px;
+    width: 300px;
+    padding: 10px;
+
+}
+.div_img{
+    border-style: solid;
+    border-color: lightgray;
+    border-width: thin;
+    border-bottom-style: none;
+    height: 45%;
+    padding: 10px;
+
+}
+.div_info{
+    border-style: solid;
+    border-color: lightgray;
+    border-width: thin;
+    height: 10%;
+    padding: 10px;
+
+}
+.img_people{
+    display: inline-block;
+    height:100%;
+   
+}
