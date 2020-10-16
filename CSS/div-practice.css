@@ -1,0 +1,23 @@
+
+.header_block{
+    width:200px;
+    padding:10px;
+    background-color: 395ca9;
+}
+.content_block{
+    padding:10px;
+    width:200px;
+    background-color:e6e8eb;
+}
+.header_block >p{
+    font-weight: bold;
+    color:white;
+}
+.content_block >p{
+    color:black;
+}
+.content_block> div{
+    margin:10px;
+    padding: 5px;
+    background-color: white;
+}
