@@ -4,8 +4,8 @@
     border-color: lightgray;
     border-width: thin;
     text-align: center;
-    height: 800px;
-    width: 1000px;
+    height: 100%;
+    width: 100%;
     padding: 20px;
 
 }
@@ -21,8 +21,8 @@
     border-color: lightgray;
     border-width: thin;
     border-bottom-style: none;
-    height: 45%;
-    padding: 10px;
+    height: 60%;
+    padding: 2%;
 
 }
 .div_info{
@@ -30,11 +30,30 @@
     border-color: lightgray;
     border-width: thin;
     height: 10%;
-    padding: 10px;
+    padding: 0.5%;
 
 }
 .img_people{
     display: inline-block;
     height:100%;
    
+}
+.div_person_detail{
+    display: inline-block;
+    height: 70%;
+    width: 50%;
+}
+.div_btn{
+    display: inline-block;
+    height: 30%;
+    width: 50%;
+    text-align: center;
+}
+.bt_btn{
+    padding:15%;
+}
+.DM-modal-info{
+    border-style: solid;
+    border-radius: 1px;
+    border-color: gray;
 }
